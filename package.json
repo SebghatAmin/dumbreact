@@ -1,0 +1,12 @@
+{
+  "name": "dumbreact",
+  "private": true,
+  "engines": {
+    "node": ">=20.18.0 <21"
+  },
+  "scripts": {
+    "dev": "npm --prefix reactPro run dev",
+    "build": "npm --prefix reactPro run build",
+    "preview": "npm --prefix reactPro run preview"
+  }
+}

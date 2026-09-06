@@ -1,14 +1,11 @@
-import Counter from './components/Counter.jsx'
+import Form from "./components/Form.jsx";
 
 function App() {
-
   return (
     <div>
-      <Counter />
+      <Form />
     </div>
-
-  )
-
+  );
 }
 
-export default App
+export default App;
